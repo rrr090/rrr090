@@ -24,4 +24,4 @@ Open to internships, research opportunities and hackathon teams.
 
 - 🏆 **[shai.pro](https://github.com/rrr090/dexter)** ![Top 10](https://img.shields.io/badge/Top_10-f5b301?style=flat-square)
 - 🚀 **[NASA Space Apps 2025](https://github.com/rrr090/nasaspaceapps2025)**
-- 🛣️ **[Decentraton 4.0](https://github.com/rrr090/indrivevision)**
+- 🛣️ **Decentraton 4.0**
