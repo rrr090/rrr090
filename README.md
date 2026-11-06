@@ -1,7 +1,8 @@
 # Timur
 
-Reinforcement learning, web apps and hackathon prototypes.<br>
-CUHK-Shenzhen '30 · Kazakhstan
+I'm an Artificial Intelligence student at CUHK-Shenzhen (class of 2030), from Kazakhstan. I focus on reinforcement learning and mechanistic interpretability, and I also build web apps and hackathon prototypes.
+
+Open to internships, research opportunities and hackathon teams.
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,ts,js,threejs,electron,sqlite,vite,supabase&perline=9" alt="Python, PyTorch, TypeScript, JavaScript, three.js, Electron, SQLite, Vite, Supabase">
 
