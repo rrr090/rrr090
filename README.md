@@ -1,11 +1,11 @@
 # Timur
 
-Reinforcement learning, web apps and hackathon prototypes.
+Reinforcement learning, web apps and hackathon prototypes.<br>
 CUHK-Shenzhen '30 · Kazakhstan
 
 <a href="https://rrr090.github.io/dronelab/"><img src="https://raw.githubusercontent.com/rrr090/dronelab/main/docs/images/mission-demo.gif" alt="Three drones carrying a cargo through a generated city map to the goal pad" width="100%"></a>
 
-**[dronelab](https://github.com/rrr090/dronelab)** — RL for drone teams carrying slung cargo through wind and generated obstacle maps. PPO written from scratch in PyTorch.
+**[dronelab](https://github.com/rrr090/dronelab)** — RL for drone teams carrying slung cargo through wind and generated obstacle maps. PPO written from scratch in PyTorch.<br>
 [Live demo](https://rrr090.github.io/dronelab/) · [Code](https://github.com/rrr090/dronelab)
 
 **Also building**
