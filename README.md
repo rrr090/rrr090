@@ -4,7 +4,7 @@ I'm an Artificial Intelligence student at CUHK-Shenzhen (class of 2030), from Ka
 
 Open to internships, research opportunities and hackathon teams.
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,ts,js,threejs,electron,sqlite,vite,supabase&perline=9" alt="Python, PyTorch, TypeScript, JavaScript, three.js, Electron, SQLite, Vite, Supabase">
+<img src="https://skillicons.dev/icons?i=py,pytorch,ts,js,threejs,rust,tauri,sqlite,vite,supabase&perline=10" alt="Python, PyTorch, TypeScript, JavaScript, three.js, Rust, Tauri, SQLite, Vite, Supabase">
 
 <a href="https://rrr090.github.io/dronelab/"><img src="https://raw.githubusercontent.com/rrr090/dronelab/main/docs/images/mission-demo.gif" alt="Three drones carrying a cargo through a generated city map to the goal pad" width="100%"></a>
 
@@ -17,7 +17,8 @@ Open to internships, research opportunities and hackathon teams.
 
 ### Also building
 
-- **[inmo](https://github.com/rrr090/inmo)** — desktop study tracker ![Electron](https://img.shields.io/badge/Electron-2b2e3a?style=flat-square&logo=electron&logoColor=9feaf9) ![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white)
+- **[inmo](https://github.com/rrr090/inmo)** — desktop study tracker ![Tauri](https://img.shields.io/badge/Tauri-24c8db?style=flat-square&logo=tauri&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white)
+- **[cuhksz-faculty-scraper](https://github.com/rrr090/cuhksz-faculty-scraper)** — maps every CUHK-Shenzhen professor into a linked Obsidian vault and flags who's taking research assistants ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-7c3aed?style=flat-square&logo=obsidian&logoColor=white)
 - **[tide](https://github.com/rrr090/tide)** — website for the TIDE AI club at CUHK-Shenzhen ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1c1c1c?style=flat-square&logo=supabase&logoColor=3ecf8e)
 
 ### Hackathons
